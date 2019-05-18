@@ -1,0 +1,10 @@
+{
+  "expoServerNgrokUrl": "https://f6-5h9.anonymous.uasreact.exp.direct",
+  "packagerNgrokUrl": "https://packager.f6-5h9.anonymous.uasreact.exp.direct",
+  "ngrokPid": 9460,
+  "expoServerPort": 19000,
+  "devToolsPort": 19002,
+  "packagerPort": null,
+  "packagerPid": null,
+  "webpackServerPort": null
+}
